@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chouli12
+- 👋 Hi, I’m Chuck
 - 👀 I’m am an Aerospace Engineer..
 - 🌱 I’m currently learning ... Python.. rust..julia...
 - 💞️ I’m looking to collaborate on ... Projects involving my single board computers and microcontrolers
